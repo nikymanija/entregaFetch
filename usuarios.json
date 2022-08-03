@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Juan perez",
+    "username": "Junacito92",
+    "email": "Juancitoperez@hmail.com"
+ },
+
+  {
+    "id": 2,
+    "name": "Fran Macroni",
+    "username": "pancho96",
+    "email": "pancho@hotmail.com "
+    },
+
+  {
+    "id": 3,
+    "name": "katia Perez",
+    "username": "katy99",
+    "email": "katy@hotmail.com"
+  }
+]
